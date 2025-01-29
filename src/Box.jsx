@@ -14,8 +14,17 @@ function Box(){
                 <div className="cell"></div>
                 <div className="cell"></div>
                 <div className="cell"></div>
-                
+                <div className="cell"></div>
+                <div className="cell"></div>
+                <div className="cell"></div>
+                <div className="cell"></div>
+                <div className="cell"></div>
+                <div className="cell"></div>
+                <div className="cell"></div>
+
+                <div className="core">Core</div>
             </div>
+            
         </>
     )
 }
