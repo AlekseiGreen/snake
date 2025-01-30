@@ -2,6 +2,9 @@ import './Box.css';
 
 
 function Box(){
+    //link
+    const core = document.querySelector('core');
+
     return(
         <>
             <div className="box">
