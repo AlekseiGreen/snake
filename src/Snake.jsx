@@ -3,10 +3,13 @@ import './Snake.css';
 
 function Snake(){
 
+    let divDiv = <div className="snake">DIV</div>;
+
     return(
-        <>
-            <div className="snake">Snake</div>
-        </>
+        <div>
+            {/* <div className="snake">Snake</div> */}
+            {divDiv};
+        </div>
     )
 }
 
