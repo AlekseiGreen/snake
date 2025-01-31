@@ -1,4 +1,5 @@
 import './Box.css';
+import Snake from './Snake'
 
 
 function Box(){
@@ -25,7 +26,7 @@ function Box(){
                 <div className="cell"></div>
                 <div className="cell"></div>
 
-                <div className="core">Core</div>
+                <Snake></Snake>
             </div>
             
         </>
