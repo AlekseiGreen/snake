@@ -1,4 +1,9 @@
 .board-main{
     position: relative;
     border: 2px red solid;
+    display: flex;
+    flex-flow: row wrap;
+
+    /* height: 270px; */
+    width: max-content;
 }
