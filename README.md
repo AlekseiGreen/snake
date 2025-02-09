@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 Разработка игры Snake.
 
 1) Управление как через клавиатуру так и через контроллер.
+2) 
